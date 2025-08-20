@@ -1,7 +1,4 @@
-# Detection-of-Diabetic-Female-Patients-
-Detection of Diabetic Female Patients using Pima Indians Diabetes Dataset
-
-# Pima Indian Diabetes Prediction
+# Detection of Diabetic Female Patients using Pima Indians Diabetes Dataset
 
 ## Project Description
 This project involves predicting diabetes in Pima Indian patients using multiple machine learning models. Various classification algorithms are applied and optimized through hyperparameter tuning to achieve the best model accuracy. The goal is to compare models and find the most effective approach for accurate diabetes prediction.
