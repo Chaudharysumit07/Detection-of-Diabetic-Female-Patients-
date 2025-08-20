@@ -23,4 +23,5 @@ Link to Dataset : https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-da
 | Random Forest (After Hyperparameter Tuning) | 97.72%          | 75.32%                      | Strong validation performance |
 | Logistic Regression         | 77.85%                     | 76.62%                      | Consistent performance        |
 
-
+## Correlation Matrix of all features in the dataset
+<img width="861" height="767" alt="Diabetes_corr" src="https://github.com/user-attachments/assets/832bbce4-6251-4f11-89d0-f019fb395c0f" />
