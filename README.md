@@ -8,6 +8,8 @@ This project involves predicting diabetes in Pima Indian patients using multiple
 
 ## Dataset
 The dataset used is the Pima Indian Diabetes dataset, which contains diagnostic measurements to predict diabetes presence in female patients of Pima Indian heritage.The datasets consists of several medical predictor variables and one target variable, Outcome. Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
+Link to Dataset : https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database 
+
 
 ## Models Used and Performance
 
